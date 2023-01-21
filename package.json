@@ -42,7 +42,7 @@
   "homepage": "https://github.com/receiptline/receiptline#readme",
   "dependencies": {
     "iconv-lite": "^0.6.0",
-    "pngjs-nozlib": "^1.0.0"
+    "pngjs": "github:narita-takeru/pngjs"
   },
   "devDependencies": {
     "qrcode-generator": "^1.4.4"
